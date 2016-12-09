@@ -1,3 +1,3 @@
 # kaggle projects
 
-Repo for solutions for kaggle datasets
+Repo for kaggle data set solutions
